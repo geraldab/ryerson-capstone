@@ -1,0 +1,51 @@
+There are  153 Ignore Words.
+Opening files...
+Files read in.
+Finished combining articles; filter and randomize
+49972
+Finished filter/Radomizing
+3200
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.50104166666666672)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.45034722222222223)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.49062499999999998)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.42743055555555554)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.48229166666666667)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.45243055555555556)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.49305555555555558)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.42812499999999998)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.48402777777777778)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.44340277777777776)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.49652777777777779)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.45381944444444444)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.48020833333333335)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.43888888888888888)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.50173611111111116)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.45277777777777778)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.4982638888888889)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.45590277777777777)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.48958333333333331)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.4513888888888889)
+********
+k-fold accruacy, k= 10
+Naive   Bayes:  0.491736111111
+Decision Tree:  0.445451388889

@@ -1,0 +1,19 @@
+There are  153 Ignore Words.
+Opening files...
+Files read in.
+Finished combining articles; filter and randomize
+49972
+Finished filter/Radomizing
+3200
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.53874999999999995)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.49875000000000003)
+['agree', 'disagree', 'discuss', 'unrelated']
+('naive bayes: ', 0.51000000000000001)
+['agree', 'disagree', 'discuss', 'unrelated']
+('dec tree:', 0.44874999999999998)
+********
+k-fold accruacy, k= 2
+Naive   Bayes:  0.524375
+Decision Tree:  0.47375
